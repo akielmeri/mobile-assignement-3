@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginForm</string>
+    <string name="Title">Login</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="submit">Submit</string>
+    <string name="invalid_email">Invalid email!</string>
+    <string name="invalid_password">Password must have at least 8 characters</string>
+</resources>
